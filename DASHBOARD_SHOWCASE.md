@@ -1,0 +1,214 @@
+# Dashboard Showcase - Visual Guide
+
+## Admin Dashboard
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║  Admin Dashboard                                                       ║
+║  Welcome back, Admin! Manage your salon operations                    ║
+║                                                                        ║
+║  ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐   ║
+║  │ 📊 Total Designs │  │ 📅 Pending       │  │ ✓ Confirmed      │   ║
+║  │      24          │  │ Bookings: 8      │  │ Bookings: 15     │   ║
+║  └──────────────────┘  └──────────────────┘  └──────────────────┘   ║
+║                                                                        ║
+║  ┌──────────────────┐                                                 ║
+║  │ 💰 Total Revenue │                                                 ║
+║  │     $2,450       │                                                 ║
+║  └──────────────────┘                                                 ║
+║                                                                        ║
+║  ╔════════════════════════════════════════════════════════════════╗  ║
+║  ║ Manage Designs                                                 ║  ║
+║  ║ [+ Add New Design]                                             ║  ║
+║  ║                                                                ║  ║
+║  ║  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐           ║  ║
+║  ║  │   Design    │  │   Design    │  │   Design    │           ║  ║
+║  ║  │   Image     │  │   Image     │  │   Image     │           ║  ║
+║  ║  │             │  │             │  │             │           ║  ║
+║  ║  │ French      │  │ Ombre       │  │ Glitter     │           ║  ║
+║  ║  │ Ombre       │  │ Nails       │  │ Design      │           ║  ║
+║  ║  │ $45         │  │ $50         │  │ $55         │           ║  ║
+║  ║  │ [Edit][Del] │  │ [Edit][Del] │  │ [Edit][Del] │           ║  ║
+║  ║  └─────────────┘  └─────────────┘  └─────────────┘           ║  ║
+║  ║                                                                ║  ║
+║  ║  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐           ║  ║
+║  ║  │   Design    │  │   Design    │  │   Design    │           ║  ║
+║  ║  │   Image     │  │   Image     │  │   Image     │           ║  ║
+║  ║  │             │  │             │  │             │           ║  ║
+║  ║  │ Marble      │  │ Nude        │  │ Sparkle     │           ║  ║
+║  ║  │ Design      │  │ Nails       │  │ Nails       │           ║  ║
+║  ║  │ $40         │  │ $35         │  │ $60         │           ║  ║
+║  ║  │ [Edit][Del] │  │ [Edit][Del] │  │ [Edit][Del] │           ║  ║
+║  ║  └─────────────┘  └─────────────┘  └─────────────┘           ║  ║
+║  ║                                                                ║  ║
+║  ╚════════════════════════════════════════════════════════════════╝  ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+## Bookings Table
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║  ▼ [Image] Sarah Johnson                                              ║
+║     French Ombre                                                       ║
+║     📅 04/25/2024  10:00 AM                                            ║
+║                                                    [✓ Accept] [✗ Reject]║
+║                                                                        ║
+║  ┌────────────────────────────────────────────────────────────────┐  ║
+║  │ Design Preview          │ Booking Details      │ Design Info    │  ║
+║  │                         │                      │                │  ║
+║  │ [Design Image]          │ 👤 Customer          │ Design Name    │  ║
+║  │                         │ Sarah Johnson        │ French Ombre   │  ║
+║  │                         │                      │                │  ║
+║  │                         │ 📅 Date & Time       │ 💰 Price       │  ║
+║  │                         │ 04/25/2024 10:00 AM  │ $45            │  ║
+║  │                         │                      │                │  ║
+║  └────────────────────────────────────────────────────────────────┘  ║
+║                                                                        ║
+║  ▼ [Image] Emma Wilson                                                ║
+║     Ombre Nails                                                        ║
+║     📅 04/26/2024  2:00 PM                                             ║
+║                                                    [Confirmed] [Chat]  ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+## Customer Dashboard
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║  Welcome, Sarah!                                                       ║
+║  Discover beautiful nail designs and book your perfect appointment    ║
+║                                                                        ║
+║  ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐   ║
+║  │ 📅 Bookings      │  │ ❤️ Favorites     │  │ 🎨 Available     │   ║
+║  │      5           │  │      12          │  │      48          │   ║
+║  └──────────────────┘  └──────────────────┘  └──────────────────┘   ║
+║                                                                        ║
+║  ╔════════════════════════════════════════════════════════════════╗  ║
+║  ║ Book Design                                                    ║  ║
+║  ║                                                                ║  ║
+║  ║  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐           ║  ║
+║  ║  │   Design    │  │   Design    │  │   Design    │           ║  ║
+║  ║  │   Image     │  │   Image     │  │   Image     │           ║  ║
+║  ║  │             │  │             │  │             │           ║  ║
+║  ║  │ French      │  │ Ombre       │  │ Glitter     │           ║  ║
+║  ║  │ Ombre       │  │ Nails       │  │ Design      │           ║  ║
+║  ║  │ $45         │  │ $50         │  │ $55         │           ║  ║
+║  ║  │ [Book]      │  │ [Book]      │  │ [Book]      │           ║  ║
+║  ║  └─────────────┘  └─────────────┘  └─────────────┘           ║  ║
+║  ║                                                                ║  ║
+║  ╚════════════════════════════════════════════════════════════════╝  ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+## Design Cards
+
+```
+┌─────────────────────────────────┐
+│                                 │
+│  ┌───────────────────────────┐  │
+│  │                           │  │
+│  │    Design Image           │  │
+│  │    (Hover: Zoom + Fade)   │  │
+│  │                           │  │
+│  │  [French Ombre] ← Badge   │  │
+│  └───────────────────────────┘  │
+│                                 │
+│  French Ombre                   │
+│  $45                            │
+│  04/20/2024                     │
+│                                 │
+│  ┌──────────────┐ ┌──────────┐ │
+│  │ Edit Button  │ │ Delete   │ │
+│  └──────────────┘ └──────────┘ │
+│                                 │
+└─────────────────────────────────┘
+```
+
+## Color Palette
+
+### Admin Dashboard
+```
+Background:     Gradient (Slate-900 → Purple-900 → Slate-900)
+Primary:        Pink (#ec4899)
+Secondary:      Blue (#3b82f6)
+Accent:         Green (#22c55e), Purple (#a855f7)
+Text:           White, Gray-800
+```
+
+### Customer Dashboard
+```
+Background:     Gradient (Pink-50 → Purple-50 → Blue-50)
+Primary:        Pink (#ec4899)
+Secondary:      Purple (#a855f7)
+Accent:         Blue (#3b82f6)
+Text:           Gray-800, Gray-600
+```
+
+## Interactive Elements
+
+### Buttons
+```
+Primary:        Gradient (Pink → Pink-600)
+Success:        Gradient (Green → Green-600)
+Danger:         Gradient (Red → Red-600)
+Info:           Gradient (Blue → Blue-600)
+
+Hover:          Darker gradient + Shadow
+Active:         Scale 0.95
+Disabled:       Opacity 0.5
+```
+
+### Cards
+```
+Default:        White background, subtle shadow
+Hover:          Enhanced shadow, slight scale
+Expanded:       Gradient background, border
+```
+
+### Badges
+```
+Confirmed:      Green background, green text
+Pending:        Yellow background, yellow text
+Rejected:       Red background, red text
+Completed:      Blue background, blue text
+```
+
+## Animations
+
+```
+Hover Scale:    transform scale-105
+Hover Shadow:   shadow-xl
+Chevron:        rotate-180 (expanded)
+Loading:        animate-spin
+Transitions:    duration-300
+```
+
+## Responsive Breakpoints
+
+```
+Mobile:         < 768px   (1 column)
+Tablet:         768-1024px (2 columns)
+Desktop:        > 1024px  (3-4 columns)
+```
+
+## Typography
+
+```
+H1:             text-4xl font-bold
+H2:             text-3xl font-bold
+H3:             text-lg font-bold
+H4:             text-sm font-bold
+Body:           text-sm/base
+Muted:          text-xs text-gray-500
+```
+
+---
+
+**The dashboards now feature a modern, professional design with impressive visual elements!**

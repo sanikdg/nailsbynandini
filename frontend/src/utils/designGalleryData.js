@@ -1,0 +1,28 @@
+export const GALLERY_IMAGES = [
+  { id: 1, src: '/sanu/hand1.jpeg', title: 'Elegant Rose', category: 'Bridal' },
+  { id: 2, src: '/sanu/hand10.jpeg', title: 'Classic French', category: 'Minimal' },
+  { id: 3, src: '/sanu/hand4.jpeg', title: 'Golden Hour', category: 'Trendy' },
+  { id: 4, src: '/sanu/hand5.jpeg', title: 'Pastel Dreams', category: 'Minimal' },
+  { id: 5, src: '/sanu/hand6.jpeg', title: 'Cherry Blossom', category: 'Abstract' },
+  { id: 6, src: '/sanu/hand7.jpeg', title: 'Midnight Glam', category: 'Trendy' },
+  { id: 7, src: '/sanu/hand8.jpeg', title: 'Pearl Essence', category: 'Bridal' },
+  { id: 8, src: '/sanu/hand9.jpeg', title: 'Ocean Breeze', category: 'Abstract' },
+  { id: 9, src: '/sanu/hand11.jpeg', title: 'Lavender Dawn', category: 'Minimal' },
+  { id: 10, src: '/sanu/hand12.jpeg', title: 'Sunset Ombré', category: 'Trendy' },
+  { id: 11, src: '/sanu/hand13.jpeg', title: 'Crystal Frost', category: 'Bridal' },
+  { id: 12, src: '/sanu/hand14.jpeg', title: 'Velvet Touch', category: 'Abstract' },
+  { id: 13, src: '/sanu/hand15.jpeg', title: 'Blush Romance', category: 'Bridal' },
+  { id: 14, src: '/sanu/hand16.jpeg', title: 'Mocha Swirl', category: 'Trendy' },
+  { id: 15, src: '/sanu/hnad17.jpeg', title: 'Fairy Dust', category: 'Abstract' },
+  { id: 16, src: '/sanu/hand18.jpeg', title: 'Silver Lining', category: 'Minimal' },
+  { id: 17, src: '/sanu/hand20.jpeg', title: 'Berry Bliss', category: 'Trendy' },
+  { id: 18, src: '/sanu/hnad19.jpeg', title: 'Marble Queen', category: 'Abstract' },
+  { id: 19, src: '/sanu/hand21.jpeg', title: 'Champagne Toast', category: 'Bridal' },
+  { id: 20, src: '/sanu/hand22.jpeg', title: 'Nude Luxe', category: 'Minimal' },
+  { id: 21, src: '/sanu/hand23.jpeg', title: 'Royal Plum', category: 'Trendy' },
+  { id: 22, src: '/sanu/hand24.jpeg', title: 'Coral Reef', category: 'Abstract' },
+  { id: 23, src: '/sanu/hand25.jpeg', title: 'Mauve Magic', category: 'Minimal' },
+  { id: 24, src: '/sanu/hand26.jpeg', title: 'Starlight Kiss', category: 'Bridal' },
+];
+
+export const DESIGN_CATEGORIES = ['All', 'Bridal', 'Minimal', 'Trendy', 'Abstract'];
